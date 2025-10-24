@@ -37,4 +37,4 @@ A comprehensive web application for *diabetes management* with *real-time glucos
 git clone https://github.com/yourusername/gluconova.git
 cd gluconova
 npm install
-npm start
+npm run dev
